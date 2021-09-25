@@ -12,10 +12,10 @@ This document is the additional assignment work for CS648 students
 
 ****
 
-> **1) Explain in detail `the classical authentication protocol(s) in your research area` and map it(them) if possible to what we have covered in the class `including the possible attacks`. For example, public and private Blockchains have different authentication protocols. You can cite different resources, but you have to have `at least 2 research papers`. I don't expect you to come up with new vulnerabilities in the protocols; instead I expect you to read and cite the research papers that investigated those issues if they are available.**
+> **Explain in detail `the classical authentication protocol(s) in your research area` and map it(them) if possible to what we have covered in the class `including the possible attacks`. For example, public and private Blockchains have different authentication protocols. You can cite different resources, but you have to have `at least 2 research papers`. I don't expect you to come up with new vulnerabilities in the protocols; instead I expect you to read and cite the research papers that investigated those issues if they are available.**
 
 ****
-# Catalogue
+# Catalog
 
 * [1 Authentication Protocols in IoT](#1-authentication-protocols-in-iot)
   * [1.1 Why is authentication so important in IoT](#11-why-is-authentication-so-important-in-iot)
